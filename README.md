@@ -7,7 +7,8 @@
 - AFK
 
 # How To Use
-$ pkg update && pkg upgrade<br>
+$ pkg install<br>
+$ pkg upgrade
 $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/TuanTayo/TuanTayoV1<br>
