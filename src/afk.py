@@ -5,7 +5,7 @@ c=('\033[1;36m')
 r=('\033[1;31m')
 g=('\033[1;32m')
 w=('\033[1;37m')
-print("
+print("""
 #Script AFK by TuanTayo#
 Author : TuanTayo
 Email : cyber.tuantayo@gmail.com
