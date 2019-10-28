@@ -12,7 +12,7 @@ $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/TuanTayo/TuanTayoV1<br>
 $ pip install requests mechanize bs4<br>
-$ cd SPAMerSMS<br>
+$ cd TuanTayoV1<br>
 $ python main.py
 
 # Games
