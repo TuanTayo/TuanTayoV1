@@ -7,13 +7,12 @@
 - AFK
 
 # How To Use
-$ pkg install<br>
-
+$ apt update && apt upgrade<br>
 $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/TuanTayo/TuanTayoV1<br>
 $ pip install requests mechanize bs4<br>
-$ cd TuanTayoV1<br>
+$ cd SPAMerSMS<br>
 $ python main.py
 
 # Games
