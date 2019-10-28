@@ -6,7 +6,7 @@ r=('\033[1;31m')
 g=('\033[1;32m')
 w=('\033[1;37m')
 print("
-#Script Freeze Analog by TuanTayo#
+-Script Freeze Analog by TuanTayo-
 Author : TuanTayo
 Email : cyber.tuantayo@gmail.com
 Special Thanks To : All Members Hidden Group
