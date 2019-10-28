@@ -8,7 +8,7 @@
 
 # How To Use
 $ pkg install<br>
-$ pkg upgrade
+$ pkg upgrade</br>
 $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/TuanTayo/TuanTayoV1<br>
